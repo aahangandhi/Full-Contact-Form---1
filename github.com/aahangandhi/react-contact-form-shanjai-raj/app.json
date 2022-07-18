@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "github.com/aahangandhi/react-contact-form-shanjai-raj",
+    "slug": "snack-02aa4f95-b09c-4a3d-82a7-2195d8e9807e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "github.com/aahangandhi/React-contact-form-shanjai-raj @ Jul 11, 2022"
+  }
+}
